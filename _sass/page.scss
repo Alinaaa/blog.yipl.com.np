@@ -278,7 +278,7 @@ $button-size: 1.5rem;
 			}
 			+p:empty {display: none;}
 		}
-		h5 {
+		h4 {
 			font-size: 16px;
 			margin: 14px 0 10px;
 			font-weight: 600;
@@ -470,10 +470,10 @@ $button-size: 1.5rem;
 			text-indent: inherit;
 		}
 	}
-	h3,h4 {
+	h3 {
 		color: rgba(64,64,64,0.7);
 	}
-	h5 {
+	h4 {
 		font-size: 16px;
 		margin: 14px 0 10px;
 		font-weight: 600;

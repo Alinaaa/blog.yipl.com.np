@@ -7,21 +7,21 @@ tags: [ Design, Frontend, speaker, presenter, motivation, creative, UX, UI]
 ---
 
 
-##### “Awesome event” - Sweta Shrestha #####
+#### “Awesome event” - Sweta Shrestha 
 
-##### “Full of creativeness” – Nirajan Basnet #####
+#### “Full of creativeness” – Nirajan Basnet 
 
-##### “Fabulous and interesting” – Punya Ruchal #####
+#### “Fabulous and interesting” – Punya Ruchal 
 
-##### “Educational and inspirational” – Rishav Malla #####
+#### “Educational and inspirational” – Rishav Malla 
 
-##### “Fun people” – Prashant Shrestha #####
+#### “Fun people” – Prashant Shrestha 
 
-##### “Good event” – Anjan Shrestha #####
+#### “Good event” – Anjan Shrestha 
 
-##### “Dribbble-ing” – Rakeeb Rajbhandari #####
+#### “Dribbble-ing” – Rakeeb Rajbhandari 
 
-##### “Inspirational Concepts" - Rohit Shrestha #####
+#### “Inspirational Concepts" - Rohit Shrestha 
 
 ![Dribbble](/images/Dribbble-blog/Dribbblers-2.jpg)
 
@@ -82,9 +82,6 @@ The meetup ended up with networking and some snacks along with beer.
 > "Dribble Meetup Kathmandu" is my first UX/UI event I have ever attend.  As "Dribbble Meetup Kathmandu" is having 1st time in Kathmandu so it was fun, inspirational, learning & networking with UX/UI designers."  - **Rohit Shrestha** 
 
 ![Dribbble](/images/Dribbble-blog/Dribbbleer-1.jpg)
-
-
-
 
 
 
