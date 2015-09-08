@@ -278,6 +278,14 @@ $button-size: 1.5rem;
 			}
 			+p:empty {display: none;}
 		}
+		h5 {
+			font-size: 16px;
+			margin: 14px 0 10px;
+			font-weight: 600;
+			+p {
+				margin-top: 20px;
+			}
+		}
 		p {
 			@include font-rem(14);
 		}
@@ -464,6 +472,17 @@ $button-size: 1.5rem;
 	}
 	h3,h4 {
 		color: rgba(64,64,64,0.7);
+	}
+	h5 {
+		font-size: 16px;
+		margin: 14px 0 10px;
+		font-weight: 600;
+		+p {
+			margin-top: 20px;
+		}
+	}
+	blockquote p {
+		margin-bottom: 0;
 	}
 }
 
